@@ -15,6 +15,6 @@ apple.csv : Compiled data taken from Apple's 10K form. link: http://investor.app
 
 I have intentionally excluded other Apple revenue stream ( i.e. itunes, ipads, icloud ) to simplify prediction inputs.
 
-This is a demo application not a financial tool.
+<strong>This is a demo application not a financial tool.</strong>
 
 To view this app in action: https://noeltemena.shinyapps.io/predicting_apple_income_ii/
