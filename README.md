@@ -10,7 +10,7 @@ server.R: Shiny/R code to process input and small financial data
 
 apple.csv : Compiled data taken from Apple's 10K form. link: http://investor.apple.com/sec.cfm    
 
-![AppleSecForms](https://github.com/ntemena720/PredictAppleIncome/blob/master/apple.csv)   
+![AppleIncomeData](https://github.com/ntemena720/PredictAppleIncome/blob/master/apple.csv)   
 
 I have intentionally excluded other Apple revenue stream ( i.e. itunes, ipads, icloud ) to show only positive trendlines.
 
