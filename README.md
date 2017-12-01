@@ -1,6 +1,6 @@
 # Predicting Apple Net Income
 
-This shiny application predicts Apple's net income based from the number of sold iPhone and Macs. Prediction were derieved from Apple's SEC 10K data from 2005 to 2016.
+This shiny application predicts Apple's net income based from the number of sold iPhone and Macs. Income prediction is based from Apple's SEC 10K data from 2005 to 2016.
 
 ![AppleIncome](https://github.com/ntemena720/PredictAppleIncome/blob/master/apple.PNG)
 
