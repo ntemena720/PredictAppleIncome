@@ -5,6 +5,9 @@
 This application will predict Apple's net income based from the number of sold iPhone and Macs units.
 Prediction formula were derieved from Apple's SEC 10K data from 2005 to 2016.
 
+![AppleIncome](https://github.com/ntemena720/PredictAppleIncome/blob/master/apple.PNG)
+
+
  ui.R: Shiny/R code for the input and output
 
  server.R: Shiny/R code to process input and small financial data
