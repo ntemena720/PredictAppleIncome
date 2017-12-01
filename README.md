@@ -1,6 +1,7 @@
 # Predicting Apple Net Income
 
-This shiny application predicts Apple's net income based from the number of sold iPhone and Macs. Income prediction is based from Apple's SEC 10K data from 2005 to 2016.
+This shiny application predicts Apple's net income based from the number of sold iPhone and Macs. Income prediction is based from Apple's SEC 10K data from 2005 to 2016. To view this app in action: https://noeltemena.shinyapps.io/predicting_apple_income_ii/  
+
 
 ![AppleIncome](https://github.com/ntemena720/PredictAppleIncome/blob/master/apple.PNG)
 
@@ -14,5 +15,4 @@ apple.csv : Compiled data taken from Apple's 10K form. link: http://investor.app
 
 I have intentionally excluded other Apple revenue stream ( i.e. itunes, ipads, icloud ) to show only positive trendlines.
 
-To view this app in action: https://noeltemena.shinyapps.io/predicting_apple_income_ii/
 To view the manual for using the application: https://rpubs.com/noeltemena/appleincome
